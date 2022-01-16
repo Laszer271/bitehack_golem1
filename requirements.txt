@@ -1,1 +1,6 @@
 fer
+tensorflow
+torch
+jupyter
+opencv-python
+fastapi
