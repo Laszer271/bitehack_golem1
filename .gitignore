@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# output frames from FER video analysis
+**/output/** 
+
 # VSC settings
 **/.vscode/**
 
