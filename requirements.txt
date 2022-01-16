@@ -1,6 +1,9 @@
 fer
-tensorflow
-torch
 jupyter
 opencv-python
+
+tensorflow
+torch
+
 fastapi
+uvicorn
