@@ -4,7 +4,11 @@ opencv-python
 
 tensorflow
 torch
+sklearn
 
 fastapi
 uvicorn
 pydantic
+
+numpy
+pandas
